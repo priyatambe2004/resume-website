@@ -1,4 +1,4 @@
-# Veda Internship – Task 2: Resume Website
+# Veda Internship – Task 3: Resume Website
 
 
 A responsive single-page resume website built using **HTML5 and CSS3**. The website presents education, technical skills, professional experience, projects, certifications, and contact information in a clean and accessible layout.
